@@ -1,0 +1,19 @@
+h1{
+    text-transform: capitalize;
+}
+.p_satu{
+    text-align: justify;
+}
+#p_dua{
+    text-decoration: underline;
+}
+*{
+    color: white;
+    background-color: green;
+}
+[name=p_tiga],[name=p_empat]{
+    text-align: center;
+}
+p.p_lima{
+    text-decoration: line-through;
+}
